@@ -1,0 +1,31 @@
+---INCOMPLETE---
+
+JC - Refactor code // 13
+JC - Move new poker chip to objects.js and insert into each position in table // 5
+JC - Bugfix turn signals and buttons // 13
+JC - Alert players actions to all players // 15
+
+BP - Connect logged in players (from database) to the server // 20
+BP - Update database to account for chip amount // 20
+BP - Add Account Management to lobby page - changing password, add/remove chips // 13
+
+JG - Update clients when they leave // 13
+JG - Complete algorithm to send all other player cards to clients at the end of a round // ~20
+JG - Look into fps freeze on tab change // ?
+
+JS - Algorithm to recognize who won the hand // 40
+    - decompose into parts (invidiual hand determinism, 7 choose 5 cards),
+JS - Speed up cards // 0.5
+
+Don’t exceed the limit of betting Amount for a player
+
+?? - Implement a timer system that kicks AFK players
+
+---COMPLETE---
+
+JG - Set up online play via IP connections// 13
+JG - Server sends client data (card values/suits) at the right time // 8
+JG - Upgrade socket from 0.8.6 to newest // 40  -- was easier than expected, more like 13 points
+JC - Endless raising // 13
+JC - Updating User Amounts // 10
+JC - Calculating the difference between the raises // 8

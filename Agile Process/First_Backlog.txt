@@ -1,0 +1,20 @@
+Priority - Initials - Description
+
+TO-DO/IN-PROGRESS
+1 - JS - Add detail to chips object
+1 - JS - Create detailed card back
+
+1 - BP - Create a database and link it
+
+1 - JG - Seat all players to their local bottom, and place opponents relative to him on the table
+1 - JG - Write game logic for turns and card-passing with networking in mind
+
+1 - CG - Bugfix - issue where animation stops on tab switch
+
+1 - QQ - Move all objects (buttons, turn signals, etc) to the objects.js file
+
+5 - QQ - Add a "burn" animation to the first, fifth, and seventh cards drawn from the deck of the commmunity cards 
+
+
+COMPLETED
+1 - JG - Set up server-client connection
